@@ -1,4 +1,4 @@
-# My-Git
+# quantitative-data-science-projects
 # Quantitative Modelling and Data Science Portfolio
 
 Selected academic projects developed during my M.Sc. in Stochastic and
